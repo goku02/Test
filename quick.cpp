@@ -12,7 +12,7 @@ void display(int arr[], int n){
 	std::cout << std::endl;
 }
 
-// Random Comment
+// Random Comment 2
 
 int partition(int arr[], int low, int high){
 	int left,right;
